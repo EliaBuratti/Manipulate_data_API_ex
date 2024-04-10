@@ -1,0 +1,6 @@
+@Manipulate_data_API_ex_HostAddress = http://localhost:5224
+
+GET {{Manipulate_data_API_ex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
